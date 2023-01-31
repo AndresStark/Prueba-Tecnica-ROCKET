@@ -1,0 +1,52 @@
+{
+	"Company": "Rocketters Example",
+	"HiringCompany": "Rocketters HiringCompany",
+	"Departments":[
+					"Logistics", 
+					"Sales",
+					"Marketing",
+					"Accounting",
+					"Finance",
+					"Graphic Design",
+					"Human Resources",
+					"Business Intelligence"
+					], 
+	"OpenPositions":[
+					{
+						"Position":"Warehouse Manager",
+						"Department":"Logistics",
+						"Location":"Principal Warehouse",
+						"RequestedBy":"Logistics Manager"
+					},
+					{
+						"Position":"Telesales Representative",
+						"Department":"Sales",
+						"Location":"Main Call Center",
+						"RequestedBy":"Sales Manager"
+					}, 
+					{
+						"Position":"Marketing Analyst",
+						"Department":"Marketing",
+						"Location":"Central Office",
+						"RequestedBy":"Marketing Chief"
+					},
+					{
+						"Position":"Datawarehouse Admin",
+						"Department":"BusinessIntelligence",
+						"Location":"Central Office",
+						"RequestedBy":"Business Intelligence Specialist"
+					},
+					{
+						"Position":"Business Analyst",
+						"Department":"BusinessIntelligence",
+						"Location":"Central Office", 
+						"RequestedBy":"Business Intelligence Chief"
+					},
+					{
+						"Position":"Python Developer",
+						"Department":"Business Intelligence",
+						"Location":"Avante",
+						"RequestedBy": "COO"
+					}
+					]					
+}
